@@ -5,11 +5,11 @@ Pour fonctionner une div qui passera par LittleDisplay doit avoir une classe `ld
 
 ## Attributs personalisé
 ### ld
-`ld-mode` (Valeur : "hash"/"url") : Endroit à partir duquel LittleDisplay ira chercher les informations
-`ld-base-url` (Valeur : chaine) : Url de base de la section à afficher, et des sous sections. Commence avec un "/" 
+`ld-mode` (Valeur : "hash"/"url") : Endroit à partir duquel LittleDisplay ira chercher les informations  
+`ld-base-url` (Valeur : chaine) : Url de base de la section à afficher, et des sous sections. Commence avec un "/"   
 
 ### ld-part
-`ld-default` (Valeurs : true/false) : Affiche ou non la section par défaut
+`ld-default` (Valeurs : true/false) : Affiche ou non la section par défaut  
 `ld-url` (Valeur : chaine) : Url à partir de laquelle la div sera affichée, en partant de la base url de la div parente. Commence par un "/"
 
 ## Truc à savoir
